@@ -16,15 +16,10 @@ The dataset includes information on laptop prices and features.
 - Model Building: Linear Regression, Decision Trees, Random Forest, etc.
 
 ## Results
-The Random Forest model provided the best performance with an R² score of 0.85.
+The XGBoost model provided the best performance with an R² score of 0.94.
 
 ## Conclusion
 The model can be used to predict laptop prices with reasonable accuracy. Further improvements can be made by incorporating more features and using advanced models.
 
-## How to Run
-1. Clone the repository: `git clone https://github.com/yourusername/Laptop-Price-Prediction.git`
-2. Install the requirements: `pip install -r requirements.txt`
-3. Run the notebook: Open `notebooks/Price_Prediction.ipynb` in Jupyter Notebook.
-
 ## Contact
-For any questions, please reach out to [Your Name] at [your email].
+For any questions, please reach out at joshpeter992@gmail.com.
