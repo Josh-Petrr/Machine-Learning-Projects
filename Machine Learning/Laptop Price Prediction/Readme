@@ -1,0 +1,30 @@
+# Laptop Price Prediction
+
+## Introduction
+This project aims to predict laptop prices using various machine learning models.
+
+## Objectives
+- Predict the price of laptops based on features such as brand, specifications, etc.
+- Compare different machine learning models to find the best performing model.
+
+## Dataset Description
+The dataset includes information on laptop prices and features.
+
+## Methods
+- Data Cleaning and Feature Engineering
+- Exploratory Data Analysis (EDA)
+- Model Building: Linear Regression, Decision Trees, Random Forest, etc.
+
+## Results
+The Random Forest model provided the best performance with an R² score of 0.85.
+
+## Conclusion
+The model can be used to predict laptop prices with reasonable accuracy. Further improvements can be made by incorporating more features and using advanced models.
+
+## How to Run
+1. Clone the repository: `git clone https://github.com/yourusername/Laptop-Price-Prediction.git`
+2. Install the requirements: `pip install -r requirements.txt`
+3. Run the notebook: Open `notebooks/Price_Prediction.ipynb` in Jupyter Notebook.
+
+## Contact
+For any questions, please reach out to [Your Name] at [your email].
